@@ -22,7 +22,7 @@ Help :
 
 • Before the change color please select "Start" tick (if u wanna choose Rainbow u don't need to select it)
 
-• N2O Infinite Nitro
+• N2O : Infinite Nitro
 
 • TopMost : Everytime top of the application
 
