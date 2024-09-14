@@ -2,16 +2,24 @@ Known errors :
 • Acceleration,Shift Delay,Aéro Speed,Aéro Downforce have problem.
 
 Other :
+
 • You know how can you use.
 
 Photo :
+
 ![image](https://github.com/user-attachments/assets/8c982044-fbd9-4748-8707-183c3f102721)
 
 
 Help :
+
 • Before the change color please select "Start" tick (if u wanna choose Rainbow u don't need to select it)
+
 • N2O Infinite Nitro
+
 • TopMost : Everytime top of the application
+
+
+
 
 Car List With ID :
 ---Police-Car---
