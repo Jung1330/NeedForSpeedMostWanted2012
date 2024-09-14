@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\bin\Debug\NFSMWTrainer.exe.config
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\bin\Debug\NFSMWTrainer.exe
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\bin\Debug\NFSMWTrainer.pdb
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\bin\Debug\Memory.pdb
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\bin\Debug\Memory.xml
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\obj\Debug\NFSMWTrainer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\obj\Debug\NFSMWTrainer.TrainerForm.resources
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\obj\Debug\NFSMWTrainer.Properties.Resources.resources
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\obj\Debug\NFSMWTrainer.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\obj\Debug\NFSMWTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\obj\Debug\NFSMWTra.FF107C68.Up2Date
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\obj\Debug\NFSMWTrainer.exe
+C:\Users\Administrator\source\repos\NFSMWTrainer\NFSMWTrainer\obj\Debug\NFSMWTrainer.pdb
