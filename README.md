@@ -1,3 +1,6 @@
+Please Check Releases
+
+
 ------------------------------------------------------------------------------
 Known errors :
 • Acceleration,Shift Delay,Aéro Speed,Aéro Downforce have problem.
